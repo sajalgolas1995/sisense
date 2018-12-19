@@ -1,6 +1,6 @@
 {
   "podId": "@@ENV_NAME@@",
-  "purpose": $ENV_PURPOSE,
+  "purpose": "$ENV_PURPOSE",
   "configTimeOut": 14400,
   "version": "@@RDP_VERSION@@",
   "tag": "Make Data Matter",

@@ -1,2 +1,1 @@
-$updateVariable=$ENV_PURPOSE
-Write-Host $updateVariable
+$ENV_PURPOSE

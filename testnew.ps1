@@ -1,2 +1,1 @@
-$ENV_PURPOSE
 Param( $ENV_PURPOSE ) 
